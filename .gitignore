@@ -1,4 +1,4 @@
 venv
 .env
-phising.egg.info
-logs
+phising.egg.info/
+logs/
